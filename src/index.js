@@ -8,6 +8,8 @@ const toastMessage = document.getElementById("toast-message")
 
 
 
+
+
 // ITERATION 1: Add event listener to the start button
 
 const btnStr = document.getElementById("start-btn")
